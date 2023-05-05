@@ -5,10 +5,10 @@ with open("README.md", "r",encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "prikfy"
-AUTHOR_USER_NAME = "Prikshit7766"
-SRC_REPO="prikfy"
-AUTHOR_EMAIL = "prikshitsharma8024@gmail.com"
+REPO_NAME = "<REPO_NAME>"
+AUTHOR_USER_NAME = "<AUTHOR_USER_NAME>"
+SRC_REPO = "<SRC_REPO>"
+AUTHOR_EMAIL = "<AUTHOR_EMAIL>"
 
 setuptools.setup(name=SRC_REPO, 
                   version=__version__,

@@ -1,3 +1,2 @@
-# prikfy
 
-building python package
+pypi_template
